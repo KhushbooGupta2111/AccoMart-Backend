@@ -1,4 +1,4 @@
-package com.accomart.backend.services.AddressService;
+package com.accomart.backend.services;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;

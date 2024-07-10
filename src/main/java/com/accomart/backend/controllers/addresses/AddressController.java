@@ -6,7 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import com.accomart.backend.entities.Address;
-import com.accomart.backend.services.AddressService.AddressService;
+import com.accomart.backend.services.AddressService;
 
 import jakarta.validation.Valid;
 import java.util.List;
